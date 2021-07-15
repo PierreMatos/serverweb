@@ -1,0 +1,52 @@
+1626354326a:1:{s:22:"blog-category-page.htm";a:15:{s:8:"fileName";s:22:"blog-category-page.htm";s:7:"content";s:725:"title = "Blog Category"
+url = "/category/:slug/:page?"
+layout = "default"
+is_hidden = 0
+enabled_in_sitemap = 1
+model_class = "Rainlab\Blog\Models\Category"
+use_updated_at = 0
+changefreq = "always"
+priority = 0.1
+
+[blogPosts]
+pageNumber = "{{ :page }}"
+categoryFilter = "{{ :slug }}"
+postsPerPage = 10
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog-category-page"
+postPage = "blog-page"
+==
+<?php
+function onEnd()
+{
+// Optional - set the page title to the category name
+if ($this->category)
+$this->page->title = $this->category->name;
+}
+?>
+==
+{% if not category %}
+
+<h2>Category not found</h2>
+
+{% else %}
+
+{% partial 'services-title' %}
+{% component 'blogPosts' %}
+
+{% endif %}";s:5:"mtime";i:1624831034;s:6:"markup";s:144:"{% if not category %}
+
+<h2>Category not found</h2>
+
+{% else %}
+
+{% partial 'services-title' %}
+{% component 'blogPosts' %}
+
+{% endif %}";s:4:"code";s:139:"function onEnd()
+{
+// Optional - set the page title to the category name
+if ($this->category)
+$this->page->title = $this->category->name;
+}";s:5:"title";s:13:"Blog Category";s:3:"url";s:22:"/category/:slug/:page?";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:18:"enabled_in_sitemap";s:1:"1";s:11:"model_class";s:28:"Rainlab\Blog\Models\Category";s:14:"use_updated_at";s:1:"0";s:10:"changefreq";s:6:"always";s:8:"priority";s:3:"0.1";s:9:"blogPosts";a:7:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"categoryFilter";s:11:"{{ :slug }}";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:18:"blog-category-page";s:8:"postPage";s:9:"blog-page";}}}

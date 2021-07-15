@@ -1,0 +1,47 @@
+title = "Podcast"
+url = "/podcast"
+layout = "default"
+is_hidden = 0
+enabled_in_sitemap = 1
+use_updated_at = 0
+changefreq = "always"
+priority = 0.1
+
+[blogPosts podcastEpisodes]
+pageNumber = "{{ :page }}"
+categoryFilter = "podcast-episode"
+postsPerPage = 20
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "blog-category-page"
+postPage = "blog-page"
+==
+<section class="podcast-header container-fluid p-5">
+    <div class="row h-100">
+        <div class="col-lg-8 col-12 mx-auto my-auto">
+            <div class="podcast-header-hero row mb-4">
+                <div class="podcast-cover col-md-6 mx-auto">
+                    <img class="img-fluid" src="{{ 'assets/images/podcast/podcast-cover-art.jpg'|theme }}" width="500" height="500">
+                </div>
+                <div class="podcast-ctas col-md-6 mx-auto my-auto text-center">
+                    <div>
+                        <a href="https://link.chtbl.com/nlNCUSBD" class="btn">
+                            listen to our podcast
+                        </a>
+                        <p>or</p>
+                        <a href="https://www.youtube.com/channel/UCxzr0lY3n-skr_m0NRgVoMw" class="btn">
+                            watch it here
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="podcast-header-copy row">
+                <div class="col-12">
+                    <p>Welcome to Growth Hack by Papi Digital. Where we break down marketing channels like Facebook, Google, Instagram, YouTube and show you why they aren’t working. These won't be boring explanations. They are real stories of where campaigns have either failed or succeeded and we explain to you why. We breakdown each channel and show you where the holes and flaws are. Don’t worry if you are running active campaigns or are working with an agency this is for you too.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% component 'podcastEpisodes' %}

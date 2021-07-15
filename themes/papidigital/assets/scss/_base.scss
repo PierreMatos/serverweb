@@ -1,0 +1,179 @@
+@import "../../../../node_modules/bootstrap/scss/functions";
+@import "../../../../node_modules/bootstrap/scss/variables";
+@import "../../../../node_modules/bootstrap/scss/mixins";
+
+$primaryColor: #CA3D3D;
+$papiGreyColor: #F2F2F2;
+$placeholderRowColor: pink;
+$placeholderRowOddColor: blue;
+$placeholderCol1Color: red;
+$placeholderCol2Color: green;
+$pageBackgroundColor: #FFF;
+$mainFontFamily: 'Rubik', sans-serif;
+$articleBodyFontFamily: 'Castoro', serif;
+$font-weight-medium: 500;
+
+body {
+  font-family: $mainFontFamily;
+  background-color: $pageBackgroundColor;
+  color: #000;
+}
+
+body, html {
+  height: 100%;
+}
+
+a {
+  color: $primaryColor
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+
+  &:hover {
+    color: $primaryColor;
+  }
+
+  &.active {
+    color: $primaryColor;
+  }
+}
+
+.navbar {
+
+  border-bottom: 1px solid #DCDCDC;
+  padding: 1rem;
+
+  .nav-link {
+    text-transform: uppercase;
+  }
+
+  .dropdown-item {
+    text-transform: uppercase;
+
+    &:active {
+      background-color: $primaryColor;
+    }
+
+    &.active {
+      background-color: $primaryColor;
+
+      a:hover {
+        color: white;
+      }
+    }
+  }
+
+  .phone {
+    color: $primaryColor !important;
+
+    img {
+      margin-right: 0.2rem;
+    }
+  }
+}
+
+.vertical-align-helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.header2 {
+  font-size: 1.75rem;
+  color: $primaryColor;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.btn {
+  border-radius: 2rem;
+  text-transform: uppercase;
+  padding: 0.60rem 1.25rem;
+  font-size: 0.75rem;
+  background-color: $primaryColor;
+  color: #FFF;
+  font-weight: $font-weight-medium;;
+}
+
+.btn-outline {
+  border-radius: 2rem;
+  border-color: $primaryColor;
+  border-style: solid;
+  border-width: 0.08rem;
+  text-transform: uppercase;
+  padding: 0.60rem 1.25rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+  color: $primaryColor;
+  font-weight: $font-weight-medium;
+}
+
+.hook {
+  font-size: 3rem;
+  line-height: 3.5rem;
+  margin-bottom: 2rem;
+  color: #000;
+}
+
+.hooked-p {
+  margin-bottom: 2rem;
+}
+
+.hooked-p:last-child {
+  margin-bottom: 0;
+}
+
+.contact-us {
+  background-color: $primaryColor;
+  color: #FFF;
+
+  .header2 {
+    color: #FFF;
+    margin-bottom: 1.5rem;
+  }
+
+  .contact {
+
+    p {
+      margin: 0;
+    }
+
+    a {
+      color: #FFF;
+      border-bottom: solid 1px #FFF;
+      padding-bottom: 0.05rem;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+  .social {
+
+    .social-icon {
+      margin-right: 1.5rem;
+    }
+  }
+}
+
+.footer {
+  background-color: #000;
+  color: #FFF;
+  text-align: center;
+
+  p {
+    margin: 0;
+  }
+}
+
+.papidigital-hero-banner {
+  img {
+    width: 100%;
+    height: 30vw;
+    max-height: 60vh;
+    min-height: 20vh;
+    object-fit: cover;
+  }
+}

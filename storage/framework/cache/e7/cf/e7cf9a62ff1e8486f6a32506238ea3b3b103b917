@@ -1,0 +1,88 @@
+1626354326a:1:{s:10:"header.htm";a:6:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:2492:"==
+<nav class="navbar navbar-expand-md navbar-light">
+    <a class="navbar-brand" href="{{ 'home'|page }}">
+        <img src="{{ 'assets/images/papi-logo/papi-logo@2x.png'|theme }}" width="261" height="60" />
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav" >
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link {% if this.page.id == 'podcast-marketing' or this.page.id == 'ecommerce' %}active{% endif %} dropdown-toggle"
+                   href="#" id="navbarDropdown"
+                   role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    services
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item {% if this.page.id == 'podcast-marketing' %}active{% endif %}" href="{{ 'podcast-marketing'|page }}">Podcast Marketing</a>
+                    <a class="dropdown-item {% if this.page.id == 'ecommerce' %}active{% endif %}" href="{{ 'ecommerce'|page }}">ecommerce marketing</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if this.page.id == 'donnie-brasco-case-study' %}active{% endif %}"
+                   href="{{ 'donnie-brasco-case-study'|page }}">
+                    case studies
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if this.page.id == 'blog' %}active{% endif %}" href="{{ 'blog'|page }}">weekly hacks</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if this.page.id == 'podcast' %}active{% endif %}" href="{{ 'podcast'|page }}">podcast</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ 'home'|page }}#about-us">about</a>
+            </li>
+            <li class="nav-item">
+                <div class="nav-link phone">
+                    <img src="{{ 'assets/images/phone-icon/phone-icon@2x.png'|theme }}" width="14" height="24" />
+                    (818) 850-0397
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>";s:5:"mtime";i:1624670861;s:6:"markup";s:2489:"<nav class="navbar navbar-expand-md navbar-light">
+    <a class="navbar-brand" href="{{ 'home'|page }}">
+        <img src="{{ 'assets/images/papi-logo/papi-logo@2x.png'|theme }}" width="261" height="60" />
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav" >
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link {% if this.page.id == 'podcast-marketing' or this.page.id == 'ecommerce' %}active{% endif %} dropdown-toggle"
+                   href="#" id="navbarDropdown"
+                   role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    services
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item {% if this.page.id == 'podcast-marketing' %}active{% endif %}" href="{{ 'podcast-marketing'|page }}">Podcast Marketing</a>
+                    <a class="dropdown-item {% if this.page.id == 'ecommerce' %}active{% endif %}" href="{{ 'ecommerce'|page }}">ecommerce marketing</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if this.page.id == 'donnie-brasco-case-study' %}active{% endif %}"
+                   href="{{ 'donnie-brasco-case-study'|page }}">
+                    case studies
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if this.page.id == 'blog' %}active{% endif %}" href="{{ 'blog'|page }}">weekly hacks</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {% if this.page.id == 'podcast' %}active{% endif %}" href="{{ 'podcast'|page }}">podcast</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ 'home'|page }}#about-us">about</a>
+            </li>
+            <li class="nav-item">
+                <div class="nav-link phone">
+                    <img src="{{ 'assets/images/phone-icon/phone-icon@2x.png'|theme }}" width="14" height="24" />
+                    (818) 850-0397
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

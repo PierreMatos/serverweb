@@ -1,0 +1,279 @@
+﻿ID,Title,Content,"HTML Content",Excerpt,Slug,Categories,"Author Email","Featured Images","Created date","Updated date","Published date"
+1,"First blog post","This is your first ever **blog post**! It might be a good idea to update this post with some more relevant content.
+
+You can edit this content by selecting **Blog** from the administration back-end menu.
+
+*Enjoy the good times!*","<p>This is your first ever <strong>blog post</strong>! It might be a good idea to update this post with some more relevant content.</p>
+<p>You can edit this content by selecting <strong>Blog</strong> from the administration back-end menu.</p>
+<p><em>Enjoy the good times!</em></p>","The first ever blog post is here. It might be a good idea to update this post with some more relevant content.",first-blog-post,"SEO|Social Media",admin@domain.tld,https://s3-us-west-1.amazonaws.com/papidigital-website/uploads/public/5fc/878/268/5fc87826868b3241635861.jpg,"2020-11-14 21:41:09","2020-11-14 21:42:42","2020-11-14 21:41:09"
+2,"Test post #1","Hello I am a blog post.","<p>Hello I am a blog post.</p>","The first ever blog post is here. It might be a good idea to update this post with some more relevant content.",test-post-1,,admin@domain.tld,,"2020-11-14 22:35:19","2020-11-19 03:28:35","2020-11-14 14:35:00"
+3,"Test Post #2","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec est ante. Nunc leo metus, gravida vel velit a, condimentum tempor urna. Nullam vel orci nisl. Ut nulla lorem, fermentum vel leo bibendum, tempus pretium est. Praesent varius tortor at lorem pulvinar tincidunt. Cras scelerisque urna in scelerisque sodales. Integer bibendum, arcu at euismod finibus, nunc metus pharetra elit, id ultrices arcu nisl sed ligula. Integer hendrerit, augue sit amet mattis accumsan, est dolor vestibulum velit, ut aliquet augue libero eu urna. Duis in purus a lectus viverra gravida sed a justo. Vestibulum purus risus, porttitor sed fringilla ac, pretium eu turpis. Nulla eu ornare lectus. Curabitur facilisis pulvinar rutrum. Sed tempus libero lorem. Morbi rhoncus quam in efficitur vulputate.
+
+Vivamus sed nulla ut lectus pellentesque commodo. Morbi in ipsum sit amet massa semper pellentesque. Quisque dapibus quam tempor lobortis lobortis. Nullam ornare porta sapien, ut faucibus risus tristique sed. Cras quis nisi purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus rhoncus, tellus vitae blandit suscipit, elit mauris tempor diam, vel tempor risus dolor eget est.
+
+Integer sem lectus, pharetra vitae risus id, dictum vulputate leo. Fusce libero mi, consectetur in dui nec, porta tempus odio. Cras quis vestibulum ex, et vehicula lorem. Nam vel molestie turpis. Quisque enim massa, tincidunt non tincidunt non, rutrum eu lorem. Curabitur urna ex, iaculis non libero non, dignissim tincidunt elit. Cras in arcu at sapien consequat lacinia ut nec justo. Phasellus maximus est eros, ac laoreet massa volutpat euismod. Nam congue porta lacus, non congue sem semper eu. Duis interdum scelerisque ante, vel porta dolor vehicula at. Nam ut feugiat sem, vestibulum consectetur ex. Donec sollicitudin nisl a turpis rhoncus suscipit mattis vel nisi. Morbi semper, risus at sagittis scelerisque, metus neque luctus lorem, et dictum elit libero id arcu. Donec sagittis nunc eu arcu sodales malesuada.
+
+Curabitur congue scelerisque mi, sed semper elit porttitor ac. Cras ac urna a mi scelerisque consequat a mollis neque. Cras et sapien lorem. Nam eget mauris neque. Maecenas placerat, felis sit amet molestie tempor, sem justo euismod quam, vitae dignissim diam velit a mauris. Quisque consequat elementum libero quis condimentum. Nulla facilisi. Proin tempor dapibus est, a rhoncus libero efficitur vitae. Fusce vel nisl dui. Pellentesque ante justo, posuere et erat id, sagittis finibus nisl. Sed vel eleifend libero, faucibus ultrices mi. Sed faucibus nec leo sollicitudin suscipit. Duis sollicitudin consectetur lorem a consequat.
+
+Morbi vel diam libero. Nam ultricies sodales justo ac dapibus. Maecenas ultricies bibendum velit, sit amet dignissim arcu dapibus sit amet. Suspendisse ante magna, porttitor malesuada ipsum vitae, suscipit tempor eros. Etiam molestie eget lectus eu hendrerit. Suspendisse vitae metus a est dictum pulvinar. Mauris id lacus urna. In hac habitasse platea dictumst. Aliquam ex ante, auctor non magna vel, faucibus suscipit ligula. Duis tempus elit eu rhoncus auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus.","<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec est ante. Nunc leo metus, gravida vel velit a, condimentum tempor urna. Nullam vel orci nisl. Ut nulla lorem, fermentum vel leo bibendum, tempus pretium est. Praesent varius tortor at lorem pulvinar tincidunt. Cras scelerisque urna in scelerisque sodales. Integer bibendum, arcu at euismod finibus, nunc metus pharetra elit, id ultrices arcu nisl sed ligula. Integer hendrerit, augue sit amet mattis accumsan, est dolor vestibulum velit, ut aliquet augue libero eu urna. Duis in purus a lectus viverra gravida sed a justo. Vestibulum purus risus, porttitor sed fringilla ac, pretium eu turpis. Nulla eu ornare lectus. Curabitur facilisis pulvinar rutrum. Sed tempus libero lorem. Morbi rhoncus quam in efficitur vulputate.</p>
+<p>Vivamus sed nulla ut lectus pellentesque commodo. Morbi in ipsum sit amet massa semper pellentesque. Quisque dapibus quam tempor lobortis lobortis. Nullam ornare porta sapien, ut faucibus risus tristique sed. Cras quis nisi purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus rhoncus, tellus vitae blandit suscipit, elit mauris tempor diam, vel tempor risus dolor eget est.</p>
+<p>Integer sem lectus, pharetra vitae risus id, dictum vulputate leo. Fusce libero mi, consectetur in dui nec, porta tempus odio. Cras quis vestibulum ex, et vehicula lorem. Nam vel molestie turpis. Quisque enim massa, tincidunt non tincidunt non, rutrum eu lorem. Curabitur urna ex, iaculis non libero non, dignissim tincidunt elit. Cras in arcu at sapien consequat lacinia ut nec justo. Phasellus maximus est eros, ac laoreet massa volutpat euismod. Nam congue porta lacus, non congue sem semper eu. Duis interdum scelerisque ante, vel porta dolor vehicula at. Nam ut feugiat sem, vestibulum consectetur ex. Donec sollicitudin nisl a turpis rhoncus suscipit mattis vel nisi. Morbi semper, risus at sagittis scelerisque, metus neque luctus lorem, et dictum elit libero id arcu. Donec sagittis nunc eu arcu sodales malesuada.</p>
+<p>Curabitur congue scelerisque mi, sed semper elit porttitor ac. Cras ac urna a mi scelerisque consequat a mollis neque. Cras et sapien lorem. Nam eget mauris neque. Maecenas placerat, felis sit amet molestie tempor, sem justo euismod quam, vitae dignissim diam velit a mauris. Quisque consequat elementum libero quis condimentum. Nulla facilisi. Proin tempor dapibus est, a rhoncus libero efficitur vitae. Fusce vel nisl dui. Pellentesque ante justo, posuere et erat id, sagittis finibus nisl. Sed vel eleifend libero, faucibus ultrices mi. Sed faucibus nec leo sollicitudin suscipit. Duis sollicitudin consectetur lorem a consequat.</p>
+<p>Morbi vel diam libero. Nam ultricies sodales justo ac dapibus. Maecenas ultricies bibendum velit, sit amet dignissim arcu dapibus sit amet. Suspendisse ante magna, porttitor malesuada ipsum vitae, suscipit tempor eros. Etiam molestie eget lectus eu hendrerit. Suspendisse vitae metus a est dictum pulvinar. Mauris id lacus urna. In hac habitasse platea dictumst. Aliquam ex ante, auctor non magna vel, faucibus suscipit ligula. Duis tempus elit eu rhoncus auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>","The first ever blog post is here. It might be a good idea to update this post with some more relevant content.",test-post-2,SEO,admin@domain.tld,,"2020-11-19 03:27:14","2020-11-25 21:59:48","2020-11-18 19:25:00"
+4,"Episode 0: Introduction To Growth Hack Podcast","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/08b17cd5-5ee4-453c-9e1f-1d71e52a1224?dark=false""></iframe>
+
+
+# Episode Summary:
+
+Your marketing campaign has just failed. That Facebook Ad campaign that you thought was going to work didn’t get results. You’ve spent thousands of dollars with nothing to show for it. You want your money back. Sound familiar? Well if this hasn’t happened to you, you are one of the lucky ones. 
+
+That’s because the approach to digital marketing is systematically flawed. Facebook, Instagram and Google make it very easy to spend money with them but that's it, you’ve only spent money with them, what about the sales, what about the leads you were looking for? Where are those?
+
+Once you listen to our introduction, start with episode 1 “Why Digital Marketing Fails”, it’s the foundation for the whole season.
+
+## Video Transcription:
+
+Your marketing campaign has just failed. That Facebook Ad campaign that you thought was going to work didn’t get results. You’ve spent thousands of dollars with nothing to show for it. You want your money back. Sound familiar? Well if this hasn’t happened to you, you are one of the lucky ones. 
+
+That’s because the approach to digital marketing is systematically flawed. Facebook, Instagram and Google make it very easy to spend money with them but that's it, you’ve only spent money with them, what about the sales, what about the leads you were looking for? Where are those? 
+
+Welcome to Growth Hack by Papi Digital. Where we break down marketing channels like Facebook, Google, Instagram, YouTube and show you why they aren’t working. 
+
+For our first season we will be showing you how to get these marketing channels started and working properly. We breakdown each channel and show you where the holes and flaws are. Don’t worry if you active campaigns or are working with an agency this is for you too. 
+
+I’m Julian Espinosa and I’m your host! 
+
+These won’t boring explanations they real stories of where campaigns have either failed or succeeded and we explain to you why. 
+
+In addition to marketing channels we have a few surprises on this season. We won’t ruin them but follow us on social media and you’ll get a sneak peak. 
+
+You won’t want to miss this season. If you want to stay in the loop with all things digital marketing subscribe to wherever you listen to your podcasts. If you have questions or topics that you want us to cover reach out to us on our Instagram or directly through our website. www.PapiDigital.com or  @_papidigital on instagram. Be sure to rate us, we want to know how we are doing! 
+
+Thanks for tuning in!","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/08b17cd5-5ee4-453c-9e1f-1d71e52a1224?dark=false""></iframe>
+<h1>Episode Summary:</h1>
+<p>Your marketing campaign has just failed. That Facebook Ad campaign that you thought was going to work didn’t get results. You’ve spent thousands of dollars with nothing to show for it. You want your money back. Sound familiar? Well if this hasn’t happened to you, you are one of the lucky ones. </p>
+<p>That’s because the approach to digital marketing is systematically flawed. Facebook, Instagram and Google make it very easy to spend money with them but that's it, you’ve only spent money with them, what about the sales, what about the leads you were looking for? Where are those?</p>
+<p>Once you listen to our introduction, start with episode 1 “Why Digital Marketing Fails”, it’s the foundation for the whole season.</p>
+<h2>Video Transcription:</h2>
+<p>Your marketing campaign has just failed. That Facebook Ad campaign that you thought was going to work didn’t get results. You’ve spent thousands of dollars with nothing to show for it. You want your money back. Sound familiar? Well if this hasn’t happened to you, you are one of the lucky ones. </p>
+<p>That’s because the approach to digital marketing is systematically flawed. Facebook, Instagram and Google make it very easy to spend money with them but that's it, you’ve only spent money with them, what about the sales, what about the leads you were looking for? Where are those? </p>
+<p>Welcome to Growth Hack by Papi Digital. Where we break down marketing channels like Facebook, Google, Instagram, YouTube and show you why they aren’t working. </p>
+<p>For our first season we will be showing you how to get these marketing channels started and working properly. We breakdown each channel and show you where the holes and flaws are. Don’t worry if you active campaigns or are working with an agency this is for you too. </p>
+<p>I’m Julian Espinosa and I’m your host! </p>
+<p>These won’t boring explanations they real stories of where campaigns have either failed or succeeded and we explain to you why. </p>
+<p>In addition to marketing channels we have a few surprises on this season. We won’t ruin them but follow us on social media and you’ll get a sneak peak. </p>
+<p>You won’t want to miss this season. If you want to stay in the loop with all things digital marketing subscribe to wherever you listen to your podcasts. If you have questions or topics that you want us to cover reach out to us on our Instagram or directly through our website. www.PapiDigital.com or  @_papidigital on instagram. Be sure to rate us, we want to know how we are doing! </p>
+<p>Thanks for tuning in!</p>","We break down marketing channels like Facebook, Google, Instagram, YouTube and show you why they aren’t working. Using real stories of where campaigns have either failed or succeeded and we explain to you why.",episode-0-introduction-to-growth-hack-podcast,"Podcast Episode",admin@domain.tld,,"2020-11-26 03:09:16","2020-12-04 03:25:48","2020-11-29 18:15:47"
+5,"Episode 1: Why Digital Marketing Fails","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/4a99eae8-85bd-4feb-b88d-f85212b119a6?dark=false""></iframe>
+
+
+# Episode Summary
+
+Have you ever had a marketing campaign fail? To understand how to make a digital marketing campaign WORK you need to understand how they fail. If you can avoid these six reasons and implement a process, you will have a marketing system built to get results. If you think you know all these, don't be too quick to judge. It’s a quick 10-minute episode!","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/4a99eae8-85bd-4feb-b88d-f85212b119a6?dark=false""></iframe>
+<h1>Episode Summary</h1>
+<p>Have you ever had a marketing campaign fail? To understand how to make a digital marketing campaign WORK you need to understand how they fail. If you can avoid these six reasons and implement a process, you will have a marketing system built to get results. If you think you know all these, don't be too quick to judge. It’s a quick 10-minute episode!</p>","We cover the main six reasons why digital marketing campaigns fail. We show you how your targeting isn’t specific enough, how you spread yourself thin on too many channels, and how your content needs to be platform specific.",episode-1-why-digital-marketing-fails,"Podcast Episode",admin@domain.tld,,"2020-11-29 18:43:23","2020-12-03 21:18:03","2020-11-29 18:42:59"
+6,"Episode 2: The State of Digital Marketing","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/2f17d174-6c55-4605-858c-862b9f6ab80c?dark=false""></iframe>","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/2f17d174-6c55-4605-858c-862b9f6ab80c?dark=false""></iframe>","We interview Tony Delmercado of Hawke Media, the fastest digital marketing company in the United States. We discuss when you should begin marketing and if you should outsource your digital marketing or keep it in house.",episode-2-state-digital-marketing,"Podcast Episode",admin@domain.tld,,"2020-11-29 18:44:34","2020-12-03 21:18:25","2020-11-29 18:44:32"
+7,"Episode 3: Narrow Down Your Target Audience","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/27e5941f-2dc8-4dff-9381-2ad49d6bc589?dark=false""></iframe>
+
+
+# Episode Summary
+In today’s episode we show you how to narrow down your target audience and show you how to build a customer avatar. Instead of walking you through the steps, we will be using a real world example to show you the process.
+
+This approach is currently being used in real online marketing campaigns that are rendering results!  You’ll get to see how selective and specific you want to be when marketing online. The things you will learn in this episode will dramatically increase your chances of success. Tune in!
+
+
+## Audio Transcript
+
+Our goal with today’s episode is to help you narrow down your target audience and show you how to build a customer avatar. Instead of walking you through the steps, we will be using a real world example to show you the process. 
+This approach is currently being used in real online marketing campaigns that are rendering results!  You’ll get to see how selective and specific you want to be when marketing online. The things you will learn in this episode will dramatically increase your chances of success. 
+In our previous episode we covered six reasons why digital marketing campaigns can fail.
+We promised you, our audience, that we would give solutions on how to solve these problems. We want to give everyone the option to listen to what is relevant to them. Instead of putting all of the solutions into one episode and having to scan through what is important to you; we will be breaking them down into topics over several episodes, allowing you to select which ones you want to hear.
+If you are a first time listener, we will get you caught up. If you have listened to us before, this will just be a refresher! 
+
+In episode one, we discussed the importance of being specific when marketing online. It’s not for the reasons you would think. Here is a snippet from the previous episode. 
+
+The large tech giants like Facebook, Google, and Twitter are monsters with HUGE revenue appetites. These companies need to bring in a lot of revenue to not only maintain but grow their stock prices. The way these giants do this is by acquiring smaller companies that have lots of users, example Facebook bought Instagram, Google bought YouTube. 
+
+They buy these properties to monetize them. How do they monetize? With Ad Revenue. 
+Companies are chomping at the bit and rushing to advertise, the result is available ad inventory is starting to run out and is causing inflation, upping the price of what it costs to market to people on social media. 
+Meaning if it’s progressively getting more expensive to show ads to users, our same marketing dollars reaches less people. If we are reaching less users, the amount of users we convert into buyers is less, which is increasing our cost to acquire a customer. With our cost to acquire customers going up, our profit margins decrease. The way we can counter and maintain profit margins is by marketing specifically to the consumer who is most likely to buy. The way we do that is by narrowing down our target audience and marketing to them specifically.
+
+To ensure that you have a target audience that is specific enough for digital marketing, let’s begin by building a customer avatar. For those of you who don’t know what a customer avatar is: A customer avatar is a detailed profile of your ideal customer. It doesn't make assumptions or categorise people into groups. The avatar focuses on one person and outlines everything about them. It goes into much greater depth than a regular marketing persona, providing marketers with many more targeting tools.
+
+When you start building your Customer Avatar, start thinking down these lines how old are they? What is their gender? What is their marital status? What are their likes and interests? Do they have children? What is their profession? If you do this, it begins to paint a picture of who your audience is. At Papi Digital we like to have a rendering of what that person would look like in cartoon form and next to it we put all the demographic data. Knowing them well is crucial for this process; for it allows you to understand what they care about and what they are interested in.
+
+Next let’s run through an example of a customer we did this for. We work with a business that targets parents who have children under the age of 10. That’s a start but it is not even close to being specific enough. Let me provide some context and we then can dive deeper into how we built a customer avatar. 
+
+Our customer has a product that redefines a child’s experience of a common tradition. If you are thinking Santa Claus, you are along the right lines. The goal of the product is to create fun memories that stimulate children's imaginations, creating a bonding experience between the parent and child.Through market testing, our client shared that mothers of young children were most likely to buy this product.
+
+This is the start that we need, to begin the process of narrowing down the target audience.The next question we are going to ask, is she a stay at home mother or does she work? Which mother has more time to create bonding experiences with their child? The stay at home mother or the working mother, the obvious answer is a stay at home mother. But let’s be careful, because this is a trap. Yes, stay at home mothers have more time to spend with their kids but generally they put together their own creative projects. Whereas a full time working mother might not have the time nor the energy to organize these types of activities the way a stay at home mom can. This mother could experience Mom Guilt for not being able to do so.
+
+Mom Guilt; is the feeling of guilt, doubt, anxiousness or uncertainty experienced by mothers when they worry that they are falling short of expectations as a mother in some way. For many mothers, particularly working or single moms it can be an intense feeling due to many contributing factors.
+
+So now, what’s the net result. A single mother who has a child under 10 years old that works full time in a demanding career. For some of you, this may sound too narrow and for some of you, this will make sense. 
+The reason we want to get this narrow is that it allows us to know exactly who we are speaking to when we create a campaign, that way we know where to spend our advertising dollars. I can hear it now, What about the mothers who are married?  What about part-time working mothers? What about fathers? Ladies and gentlemen this is called fear of loss. This fear is very real with businesses and the top reason I see digital marketing campaigns fail.
+
+Let me point something out. If we were going to target all parents that have children under the age of ten, how big is that audience? There are seven million parents that have children under the age of ten on Facebook. How much would it cost to market to all of them? For the sake of this podcast, I’ll spare you the details on how to calculate this but the number is three hundred and sixty-five thousand dollars. Businesses that have that type of advertising budget are few and far between. Now, when we run the numbers on a single mother who has a child under the age of ten years old, that works full time in a demanding career, we get to a reasonable advertising budget of eleven thousand dollars. This amount is more manageable for a business and will be far more effective in targeting the right audience which will help establish the customer base. Finding your distinct customer and advertising to them directly; is what is going to bring you the results that you want.
+
+So now that you have your customer avatar completed, what do you do with this? The next step is you would start advertising to this target audience. The question then becomes what channel? The short answer is you need to find out what channel your audience spends most of their time on. The long answer is that this requires its own episode for a full explanation.
+
+Lucky for you, the topics of our next episode are: what channels you should advertise on and what content you should use. Thank you for joining us today on our Growth Hacking podcast here at Papi Digital. Upcoming episodes will include guest speakers like Ben Amos, from Innovate Media, who will be talking about how to build the most optimal marketing funnels and Camille Smura from Mutesix will be here to discuss how to create videos that drive action.
+
+Thank you so much!","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/27e5941f-2dc8-4dff-9381-2ad49d6bc589?dark=false""></iframe>
+<h1>Episode Summary</h1>
+<p>In today’s episode we show you how to narrow down your target audience and show you how to build a customer avatar. Instead of walking you through the steps, we will be using a real world example to show you the process.</p>
+<p>This approach is currently being used in real online marketing campaigns that are rendering results!  You’ll get to see how selective and specific you want to be when marketing online. The things you will learn in this episode will dramatically increase your chances of success. Tune in!</p>
+<h2>Audio Transcript</h2>
+<p>Our goal with today’s episode is to help you narrow down your target audience and show you how to build a customer avatar. Instead of walking you through the steps, we will be using a real world example to show you the process.
+This approach is currently being used in real online marketing campaigns that are rendering results!  You’ll get to see how selective and specific you want to be when marketing online. The things you will learn in this episode will dramatically increase your chances of success.
+In our previous episode we covered six reasons why digital marketing campaigns can fail.
+We promised you, our audience, that we would give solutions on how to solve these problems. We want to give everyone the option to listen to what is relevant to them. Instead of putting all of the solutions into one episode and having to scan through what is important to you; we will be breaking them down into topics over several episodes, allowing you to select which ones you want to hear.
+If you are a first time listener, we will get you caught up. If you have listened to us before, this will just be a refresher! </p>
+<p>In episode one, we discussed the importance of being specific when marketing online. It’s not for the reasons you would think. Here is a snippet from the previous episode. </p>
+<p>The large tech giants like Facebook, Google, and Twitter are monsters with HUGE revenue appetites. These companies need to bring in a lot of revenue to not only maintain but grow their stock prices. The way these giants do this is by acquiring smaller companies that have lots of users, example Facebook bought Instagram, Google bought YouTube. </p>
+<p>They buy these properties to monetize them. How do they monetize? With Ad Revenue.
+Companies are chomping at the bit and rushing to advertise, the result is available ad inventory is starting to run out and is causing inflation, upping the price of what it costs to market to people on social media.
+Meaning if it’s progressively getting more expensive to show ads to users, our same marketing dollars reaches less people. If we are reaching less users, the amount of users we convert into buyers is less, which is increasing our cost to acquire a customer. With our cost to acquire customers going up, our profit margins decrease. The way we can counter and maintain profit margins is by marketing specifically to the consumer who is most likely to buy. The way we do that is by narrowing down our target audience and marketing to them specifically.</p>
+<p>To ensure that you have a target audience that is specific enough for digital marketing, let’s begin by building a customer avatar. For those of you who don’t know what a customer avatar is: A customer avatar is a detailed profile of your ideal customer. It doesn't make assumptions or categorise people into groups. The avatar focuses on one person and outlines everything about them. It goes into much greater depth than a regular marketing persona, providing marketers with many more targeting tools.</p>
+<p>When you start building your Customer Avatar, start thinking down these lines how old are they? What is their gender? What is their marital status? What are their likes and interests? Do they have children? What is their profession? If you do this, it begins to paint a picture of who your audience is. At Papi Digital we like to have a rendering of what that person would look like in cartoon form and next to it we put all the demographic data. Knowing them well is crucial for this process; for it allows you to understand what they care about and what they are interested in.</p>
+<p>Next let’s run through an example of a customer we did this for. We work with a business that targets parents who have children under the age of 10. That’s a start but it is not even close to being specific enough. Let me provide some context and we then can dive deeper into how we built a customer avatar. </p>
+<p>Our customer has a product that redefines a child’s experience of a common tradition. If you are thinking Santa Claus, you are along the right lines. The goal of the product is to create fun memories that stimulate children's imaginations, creating a bonding experience between the parent and child.Through market testing, our client shared that mothers of young children were most likely to buy this product.</p>
+<p>This is the start that we need, to begin the process of narrowing down the target audience.The next question we are going to ask, is she a stay at home mother or does she work? Which mother has more time to create bonding experiences with their child? The stay at home mother or the working mother, the obvious answer is a stay at home mother. But let’s be careful, because this is a trap. Yes, stay at home mothers have more time to spend with their kids but generally they put together their own creative projects. Whereas a full time working mother might not have the time nor the energy to organize these types of activities the way a stay at home mom can. This mother could experience Mom Guilt for not being able to do so.</p>
+<p>Mom Guilt; is the feeling of guilt, doubt, anxiousness or uncertainty experienced by mothers when they worry that they are falling short of expectations as a mother in some way. For many mothers, particularly working or single moms it can be an intense feeling due to many contributing factors.</p>
+<p>So now, what’s the net result. A single mother who has a child under 10 years old that works full time in a demanding career. For some of you, this may sound too narrow and for some of you, this will make sense.
+The reason we want to get this narrow is that it allows us to know exactly who we are speaking to when we create a campaign, that way we know where to spend our advertising dollars. I can hear it now, What about the mothers who are married?  What about part-time working mothers? What about fathers? Ladies and gentlemen this is called fear of loss. This fear is very real with businesses and the top reason I see digital marketing campaigns fail.</p>
+<p>Let me point something out. If we were going to target all parents that have children under the age of ten, how big is that audience? There are seven million parents that have children under the age of ten on Facebook. How much would it cost to market to all of them? For the sake of this podcast, I’ll spare you the details on how to calculate this but the number is three hundred and sixty-five thousand dollars. Businesses that have that type of advertising budget are few and far between. Now, when we run the numbers on a single mother who has a child under the age of ten years old, that works full time in a demanding career, we get to a reasonable advertising budget of eleven thousand dollars. This amount is more manageable for a business and will be far more effective in targeting the right audience which will help establish the customer base. Finding your distinct customer and advertising to them directly; is what is going to bring you the results that you want.</p>
+<p>So now that you have your customer avatar completed, what do you do with this? The next step is you would start advertising to this target audience. The question then becomes what channel? The short answer is you need to find out what channel your audience spends most of their time on. The long answer is that this requires its own episode for a full explanation.</p>
+<p>Lucky for you, the topics of our next episode are: what channels you should advertise on and what content you should use. Thank you for joining us today on our Growth Hacking podcast here at Papi Digital. Upcoming episodes will include guest speakers like Ben Amos, from Innovate Media, who will be talking about how to build the most optimal marketing funnels and Camille Smura from Mutesix will be here to discuss how to create videos that drive action.</p>
+<p>Thank you so much!</p>","We help you narrow down your target audience and show you how to build a customer avatar. We use a real world example to show you the process that is currently being used in real online marketing campaigns that are rendering results!",episode-3-narrow-down-your-target-audience,"Podcast Episode",admin@domain.tld,,"2020-11-29 18:45:42","2020-12-03 21:22:50","2020-11-29 18:45:33"
+8,"Episode 4: What Channel Should I Get Customers From?","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/f8b5c324-19b9-4446-9f0d-02b29e4b49a3?dark=false""></iframe>
+
+
+# Episode Summary
+Where do I get customers from? The internet is a massive vessel from which you can advertise. Should you start with Google Ads? What About Facebook? Instagram? And the list goes on. In this episode, we discuss how to pick the right channel to start advertising using the CAR method. CAR is an acronym that stands for capabilities, access, and resources. You don’t want to miss this one!
+
+
+## Audio Transcript
+Today, we will be covering what to do after you’ve selected your target audience. The idea here being that we now need to market ourselves. So what do you do next? 
+
+It’s safe to assume that anyone listening to this podcast has a fixed budget to spend on marketing. So the logical question to ask is: where is my budget best spent? 
+
+Another safe assumption would be listeners want results. 
+
+Results can mean many different things to many different people. Today we will be focusing on acquiring new customers and the steps to take after you’ve selected your target audience. 
+
+As growth hackers, our philosophy is to find the fastest and the most cost effective ways to revenue.  
+
+From the digital marketing standpoint, let’s cover some of our options we can use to market a business. 
+You can rank you website on the search engines, either using Search Engine Optimization or Pay Per Click. 
+You can send emails to either existing data or acquire new emails.
+You can pay for banner ads on specific websites that your audience visits.
+And of course, you can use social media…
+
+Generally speaking and depending on the business; social media can be the fastest and most cost effective way to revenue. 
+
+For the moment,  I'll pretend that everyone agrees with us that social media is the right option. Now that we are on the same page let’s get into the details. The first thing we need to do when we are doing social media marketing is to select a channel.
+
+So what are the options:
+YouTube
+Facebook
+Instagram
+Snapchat
+TIKTOK
+LinkedIn
+Twitter and Pinterest
+
+And this list will continue to grow in the years to come. BUT don’t get overwhelmed there is a simple way to pick a social media platform. You ready for the secret? Find which one your audience lives on. 
+
+If you haven’t already identified your target audience, you’ll need to go back and listen to episode 3 which helps you select your Target audience. 
+
+If you have, we have this great resource for you, it comes from Social Sprout. 
+
+Computerized Voice: What is social sprout? 
+
+[Social Sprout took data collected in 2018](https://sproutsocial.com/insights/new-social-media-demographics/) by the Pew Research Center and made it into a simple to digest infographic. The infographic looks at the demographics of users on the major social media platforms that will help you decide which channel your target audience spends the most time on. The link will be available in the show notes. 
+
+Since most of you are listening to this, let’s give some examples of what channels potential customers maybe on. 
+
+Let’s assume your consumers are teenagers. I’m guessing most of you by now know that they can be found using SnapChat and Instagram. There is also a new player on the field TikTok, formerly known as Musically. 
+
+Let’s cover the data: 70 percent of teenagers use SnapChat and 72 percent are using Instagram. Generation Z is looking for the newest and greatest social media platform which is causing a massive decline on Facebook for this audience. 
+
+Jumping to the complete opposite generation, let’s talk about baby boomers. As most of you know in the last several years they’ve jumped on the social media bandwagon. Either to reconnect with friends or to see photos of their grandchildren.
+
+Take a guess what channel they are using. *PAUSE* You guessed it right, Facebook. 41% of baby boomers use Facebook. The shocking other channel they are using is YouTube. In fact 40% of baby boomers use YouTube. 
+
+Don’t expect them to be posting a TikTok video anytime soon unless their grandchild decides to put them in one of their prank videos. 
+
+We’ve covered two generations here, when you get a chance check out the infographic Social Sprout created to look at different age ranges, genders and other demographics to see where your audience is spending their time on social media.  
+
+Now that we know what channels our audience is using, the next logical step is to go and market to them on these channels. Now be careful because this can be a trap. 
+
+Computerized Voice: A digital marketing trap…..
+
+Why would marketing to your audience on a channel that they use be a trap? Without considering what type of content performs well on the channel and the capabilities or resources you have you may end up failing on that channel. 
+
+We’ve developed a strategy that we call The Car Method. What it does is looks at the type of content that works well on the platform then factors if you are capable of being successful on the platform.
+
+C.A.R, is an acronym that we’ve created and it stands for: 
+C, capabilities 
+A, access 
+R, resources 
+
+Starting with C for capabilities, it refers to the hard skills needed to create content. Being able to use photoshop, edit videos, record sound, being able to write a script or a blog post. Assessing the capabilities you have will start you down the path of figuring out what channel will work best. Remember that every channel has different content that performs well and choosing the channel that has content in your realm of abilities is where you want to begin. 
+
+Next we have A for access, it refers to who you have access to, do you have access to your customers? Do you have access to an industry expert? Do you have access to employees? The type of access you have will determine what kind of content you can produce. 
+
+And lastly we have R for resources, it refers to the capital that you have to invest in the resources that you lack. For example, if you don’t have an in-house video editor but you can afford to outsource one. Or maybe you have someone on your team that has editing experience and can edit the video. If you don’t have the financial resources to hire a video editor then you might decide to skip filming long videos and focus on creating different content instead. The more resources you have, the more options you have to test out different content. 
+
+It’s important to remember the acronym C.A.R when determining channel and content. You need to evaluate your capabilities, know who and what you have access to; and finally what resources you are able to use to create content.  
+
+Thank you for joining us today on our Growth Hacking podcast. We have future episodes that will expand on the topics covered here today. We will also have guest speakers joining us to discuss strategy, media channels and other relevant topics to help you succeed with digital marketing.","<iframe height=""200px"" width=""100%"" frameborder=""no"" scrolling=""no"" seamless src=""https://player.simplecast.com/f8b5c324-19b9-4446-9f0d-02b29e4b49a3?dark=false""></iframe>
+<h1>Episode Summary</h1>
+<p>Where do I get customers from? The internet is a massive vessel from which you can advertise. Should you start with Google Ads? What About Facebook? Instagram? And the list goes on. In this episode, we discuss how to pick the right channel to start advertising using the CAR method. CAR is an acronym that stands for capabilities, access, and resources. You don’t want to miss this one!</p>
+<h2>Audio Transcript</h2>
+<p>Today, we will be covering what to do after you’ve selected your target audience. The idea here being that we now need to market ourselves. So what do you do next? </p>
+<p>It’s safe to assume that anyone listening to this podcast has a fixed budget to spend on marketing. So the logical question to ask is: where is my budget best spent? </p>
+<p>Another safe assumption would be listeners want results. </p>
+<p>Results can mean many different things to many different people. Today we will be focusing on acquiring new customers and the steps to take after you’ve selected your target audience. </p>
+<p>As growth hackers, our philosophy is to find the fastest and the most cost effective ways to revenue.  </p>
+<p>From the digital marketing standpoint, let’s cover some of our options we can use to market a business.
+You can rank you website on the search engines, either using Search Engine Optimization or Pay Per Click.
+You can send emails to either existing data or acquire new emails.
+You can pay for banner ads on specific websites that your audience visits.
+And of course, you can use social media…</p>
+<p>Generally speaking and depending on the business; social media can be the fastest and most cost effective way to revenue. </p>
+<p>For the moment,  I'll pretend that everyone agrees with us that social media is the right option. Now that we are on the same page let’s get into the details. The first thing we need to do when we are doing social media marketing is to select a channel.</p>
+<p>So what are the options:
+YouTube
+Facebook
+Instagram
+Snapchat
+TIKTOK
+LinkedIn
+Twitter and Pinterest</p>
+<p>And this list will continue to grow in the years to come. BUT don’t get overwhelmed there is a simple way to pick a social media platform. You ready for the secret? Find which one your audience lives on. </p>
+<p>If you haven’t already identified your target audience, you’ll need to go back and listen to episode 3 which helps you select your Target audience. </p>
+<p>If you have, we have this great resource for you, it comes from Social Sprout. </p>
+<p>Computerized Voice: What is social sprout? </p>
+<p><a href=""https://sproutsocial.com/insights/new-social-media-demographics/"">Social Sprout took data collected in 2018</a> by the Pew Research Center and made it into a simple to digest infographic. The infographic looks at the demographics of users on the major social media platforms that will help you decide which channel your target audience spends the most time on. The link will be available in the show notes. </p>
+<p>Since most of you are listening to this, let’s give some examples of what channels potential customers maybe on. </p>
+<p>Let’s assume your consumers are teenagers. I’m guessing most of you by now know that they can be found using SnapChat and Instagram. There is also a new player on the field TikTok, formerly known as Musically. </p>
+<p>Let’s cover the data: 70 percent of teenagers use SnapChat and 72 percent are using Instagram. Generation Z is looking for the newest and greatest social media platform which is causing a massive decline on Facebook for this audience. </p>
+<p>Jumping to the complete opposite generation, let’s talk about baby boomers. As most of you know in the last several years they’ve jumped on the social media bandwagon. Either to reconnect with friends or to see photos of their grandchildren.</p>
+<p>Take a guess what channel they are using. <em>PAUSE</em> You guessed it right, Facebook. 41% of baby boomers use Facebook. The shocking other channel they are using is YouTube. In fact 40% of baby boomers use YouTube. </p>
+<p>Don’t expect them to be posting a TikTok video anytime soon unless their grandchild decides to put them in one of their prank videos. </p>
+<p>We’ve covered two generations here, when you get a chance check out the infographic Social Sprout created to look at different age ranges, genders and other demographics to see where your audience is spending their time on social media.  </p>
+<p>Now that we know what channels our audience is using, the next logical step is to go and market to them on these channels. Now be careful because this can be a trap. </p>
+<p>Computerized Voice: A digital marketing trap…..</p>
+<p>Why would marketing to your audience on a channel that they use be a trap? Without considering what type of content performs well on the channel and the capabilities or resources you have you may end up failing on that channel. </p>
+<p>We’ve developed a strategy that we call The Car Method. What it does is looks at the type of content that works well on the platform then factors if you are capable of being successful on the platform.</p>
+<p>C.A.R, is an acronym that we’ve created and it stands for:
+C, capabilities
+A, access
+R, resources </p>
+<p>Starting with C for capabilities, it refers to the hard skills needed to create content. Being able to use photoshop, edit videos, record sound, being able to write a script or a blog post. Assessing the capabilities you have will start you down the path of figuring out what channel will work best. Remember that every channel has different content that performs well and choosing the channel that has content in your realm of abilities is where you want to begin. </p>
+<p>Next we have A for access, it refers to who you have access to, do you have access to your customers? Do you have access to an industry expert? Do you have access to employees? The type of access you have will determine what kind of content you can produce. </p>
+<p>And lastly we have R for resources, it refers to the capital that you have to invest in the resources that you lack. For example, if you don’t have an in-house video editor but you can afford to outsource one. Or maybe you have someone on your team that has editing experience and can edit the video. If you don’t have the financial resources to hire a video editor then you might decide to skip filming long videos and focus on creating different content instead. The more resources you have, the more options you have to test out different content. </p>
+<p>It’s important to remember the acronym C.A.R when determining channel and content. You need to evaluate your capabilities, know who and what you have access to; and finally what resources you are able to use to create content.  </p>
+<p>Thank you for joining us today on our Growth Hacking podcast. We have future episodes that will expand on the topics covered here today. We will also have guest speakers joining us to discuss strategy, media channels and other relevant topics to help you succeed with digital marketing.</p>","Where do I get customers from? The internet is a massive vessel from which you can advertise.",episode-4-what-channel-should-i-get-customers,"Podcast Episode",julian@papidigital.com,,"2020-12-03 21:26:12","2020-12-04 03:26:53","2020-12-03 03:26:50"

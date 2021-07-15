@@ -1,0 +1,21 @@
+ip: 192.168.10.10
+memory: 2048
+cpus: 2
+provider: virtualbox
+authorize: ~/.ssh/id_rsa.pub
+keys:
+    - ~/.ssh/id_rsa
+folders:
+    -
+        map: /Users/ryansimon/WebProjects/papidigital-website-official
+        to: /home/vagrant/code
+sites:
+    - map: papidigital.local
+      to: /home/vagrant/code
+      php: "7.2"
+databases:
+    - homestead
+features:
+    - ohmyzsh: true
+name: papidigital
+hostname: papidigital

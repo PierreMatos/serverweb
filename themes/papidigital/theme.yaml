@@ -1,0 +1,6 @@
+name: "Papi Digital"
+description: "Growth Hacking!"
+author: "Ryan Simon"
+homepage: "https://ryansimon.me"
+require:
+    - RainLab.Blog
